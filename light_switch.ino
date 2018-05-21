@@ -13,7 +13,7 @@ void setup() {
     if(sensorValue < sensorLow){
     	sensorLow = sensorValue;
     }
-  } //calibration loop end here
+  } //calibration loop ends here
 }
 
 void loop() {
